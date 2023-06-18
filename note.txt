@@ -1,0 +1,31 @@
+Judul :
+
+Identifying Average Positive or Negative News About Stocks Using Sentiment Analysis 
+
+Yang Di Pakai :
+
+BeautifulSoup
+
+
+############################################
+
+PAPER :
+
+1. ABSTRAK :
+
+Sentiment analysis adalah teknik dalam pengolahan bahasa alami yang digunakan untuk mengidentifikasi, menganalisis, dan mengevaluasi sentimen, opini, atau emosi yang terkandung dalam teks atau percakapan. Tujuan dari sentiment analysis adalah untuk mengklasifikasikan teks menjadi kategori sentimen yang berbeda, seperti positif, negatif, atau netral.
+
+Dalam karya ilmiah ini, kami mengajukan pendekatan yang menggunakan analisis sentimen dengan visualisasi untuk mengidentifikasi berita positif dan negatif mengenai saham. Analisis sentimen adalah teknik yang digunakan untuk mengungkapkan dan mengevaluasi opini dan emosi dari teks yang berkaitan dengan suatu topik. Kami fokus pada berita yang berkaitan dengan saham dalam konteks ini.
+
+Pendekatan yang kami usulkan mengintegrasikan proses analisis sentimen dengan visualisasi data untuk memvisualisasikan hasilnya secara intuitif dan informatif. Kami mengumpulkan data berita terkait saham dari berbagai sumber online dan menerapkan algoritma analisis sentimen untuk mengklasifikasikan berita menjadi positif atau negatif. Selanjutnya, kami menggunakan teknik visualisasi yang sesuai untuk menyajikan hasil analisis sentimen secara grafis kepada pengguna.
+
+Penelitian ini bertujuan untuk membantu investor, profesional keuangan maupun penggemar berita saham, dalam mengidentifikasi berita yang berpotensi mempengaruhi harga saham. Dengan memanfaatkan analisis sentimen dan visualisasi, pengguna dapat dengan mudah memahami sentimen pasar secara umum terhadap suatu saham dan mengambil keputusan investasi yang lebih informasional.
+
+Keyword--analisis sentimen, visualisasi data, berita saham, opini, emosi, investasi.
+
+2. INTRODUCTION
+
+Pasar saham merupakan lingkungan yang kompleks dan dinamis di mana para investor mengambil keputusan berdasarkan berbagai faktor, termasuk berita dan sentimen pasar. Artikel dan laporan berita memiliki peran penting dalam membentuk persepsi investor dan mempengaruhi keputusan investasi mereka. Namun, menganalisis secara manual volume besar data berita dapat menjadi tugas yang memakan waktu dan menantang. Oleh karena itu, teknik otomatis yang dapat mengidentifikasi dan menganalisis sentimen dalam artikel berita yang berkaitan dengan saham menjadi sangat menarik bagi investor dan profesional keuangan.
+
+Analisis sentimen, juga dikenal sebagai opinion mining, adalah bidang pengolahan bahasa alami yang berfokus pada ekstraksi dan pemahaman informasi subjektif, seperti opini, emosi, dan sikap dari data teks. Dengan memanfaatkan teknik analisis sentimen, investor dapat memperoleh wawasan berharga tentang sentimen pasar secara keseluruhan terkait saham-saham tertentu. Namun, pemahaman sentimen saja tidak selalu cukup; memvisualisasikan hasil analisis sentimen dapat memberikan pemahaman yang lebih intuitif dan komprehensif tentang pola dan tren sentimen.
+
